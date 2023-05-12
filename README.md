@@ -1,4 +1,5 @@
-# Project Readme: Filter and Render User Data
+# Photo Shop
+# Filter and Render User Data
 ```
 This project consists of a JavaScript file that filters and renders user data from an API endpoint based on user input.
 ```
